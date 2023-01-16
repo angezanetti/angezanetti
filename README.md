@@ -7,6 +7,8 @@
   - [FocusPlus](https://focusplus.io) - a tool to reduce your anxiety as a dev
   - [RemoteFR](https://remoteFR.com) - a job board for 🇫🇷 devs looking for fully remote jobs
   - [Generation Remote](https://podcast.remoteFR.com) - a podcast about remote work (in 🇫🇷)
+  - [UserBooster](https://userbooster.co) - a playbook to help you get your first users
+
 
 - 🌱 Most of my projects are made with **Sveltekit**, **Tailwind**
 
