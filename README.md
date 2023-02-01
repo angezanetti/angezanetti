@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://twitter.com/angezanetti" target="blank"><img src="https://img.shields.io/twitter/follow/angezanetti?logo=twitter&style=for-the-badge" alt="angezanetti" /></a> </p>
 
 - 🔭 I’m currently working on:
-  - [FocusPlus](https://focusplus.io) - a tool to reduce your anxiety as a dev
+  - [FocusPlus](https://focusplus.io) - a task manager that reduces your anxiety 
   - [RemoteFR](https://remoteFR.com) - a job board for 🇫🇷 devs looking for fully remote jobs
   - [Generation Remote](https://podcast.remoteFR.com) - a podcast about remote work (in 🇫🇷)
   - [UserBooster](https://userbooster.co) - a playbook to help you get your first users
