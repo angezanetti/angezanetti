@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xavier</h1>
 <h3 align="center">A solopreneur from France</h3>
 
-<p align="left"> <a href="https://twitter.com/angezanetti" target="blank"><img src="https://img.shields.io/twitter/follow/angezanetti?logo=twitter&style=for-the-badge" alt="angezanetti" /></a> </p>
+<p align="left"> <a href="https://twitter.com/xavier_coiffard" target="blank"><img src="https://img.shields.io/twitter/follow/xavier_coiffard?logo=twitter&style=for-the-badge" alt="xavier_coiffard" /></a> </p>
 
 - 🔭 I’m currently working on:
   - [FocusPlus](https://focusplus.io) - a task manager that reduces your anxiety 
@@ -16,11 +16,11 @@
 
 - 💬 Ask me about **Startups, Marketing and product development**
 
-- 📫 Reach me on [**twitter**](https://twitter.com/angezanetti)
+- 📫 Reach me on [**twitter**](https://twitter.com/xavier_coiffard)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/angezanetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angezanetti" height="30" width="40" /></a>
+<a href="https://twitter.com/xavier_coiffard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xavier_coiffard" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/xaviercoiffard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xaviercoiffard" height="30" width="40" /></a>
 </p>
 
