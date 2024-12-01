@@ -5,6 +5,8 @@
   - [FocusPlus](https://focusplus.io) - a task manager that reduces your anxiety 
   - [RemoteFR](https://remoteFR.com) - a job board for 🇫🇷 devs looking for fully remote jobs
   - [Generation Remote](https://podcast.remoteFR.com) - a podcast about remote work (in 🇫🇷)
+  - [RoxNation](https://roxnation.fr) - a experiment of pSEO
+  - [EasyTufting](https://easytufting.com) - my first ecom attempt!
   - UserBooster (SOLD) - a playbook to help you get your first users
 
 
